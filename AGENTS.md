@@ -233,3 +233,14 @@ The goal: Be helpful without being annoying. Check in a few times a day, do usef
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
+
+## 📋 Complex Task Workflow
+
+**Rule for handling complex tasks:**
+
+1. **Create a plan with TO DO list first** - Before diving in, write out the steps
+2. **Work through unfinished items** - Keep going until all TODOs are resolved
+3. **Stay cautious when things go sideways** - Watch for issues, don't assume smooth sailing
+4. **Correct course every step** - Adjust as needed, don't plow ahead blindly
+
+This workflow ensures thorough, careful execution of complex work.
