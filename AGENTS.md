@@ -52,6 +52,23 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - `trash` > `rm` (recoverable beats gone forever)
 - When in doubt, ask.
 
+### 🔒 Sensitive Data — Never Commit to Public Repos
+
+**Do NOT commit to GitHub:**
+
+- Financial reports, investment recommendations, portfolio strategy
+- Personal account information, credentials, API keys
+- Private communications, DMs, internal discussions
+- Proprietary business data, trade secrets
+- Anything your human wouldn't want strangers to see
+
+**Keep local only:**
+- Financial analysis and research
+- Personal investment decisions
+- Sensitive workspace data
+
+When in doubt: **local files only, no git commit.**
+
 ## External vs Internal
 
 **Safe to do freely:**
